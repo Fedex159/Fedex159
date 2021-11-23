@@ -116,8 +116,6 @@
 
 ---
 
-<br>
-
 ### 💼 Projects
 
 - Web Service
