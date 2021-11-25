@@ -80,31 +80,31 @@
   </tr>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Bootstrap
+      <br>Material UI
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
     </td>
      <td align="center"  width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="48" height="48" alt="Bootstrap" />
+        <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="48" height="48" alt="Vercel" />
       </a>
       <br>Vercel
     </td>
