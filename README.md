@@ -101,7 +101,9 @@
     <p>PWA</p>
     </td>
     <td align="center" width="96">
-      <img src="./icons/iconNpm.svg" width="48" height="48" alt="npm" style="padding-top: 25px"/>
+      <a href="#" style="display:flex;align-items:center;justify-content:center;height:48px;width:48px" >
+        <img src="./icons/iconNpm.svg" width="48" alt="npm" />
+      </a>
       <p>npm</p>
     </td>
   </tr>
