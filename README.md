@@ -20,89 +20,89 @@
   <tr>
     <td align="center" width="96">
       <img src="./icons/iconCSS.svg" width="48" height="48" alt="CSS" />
-      <span>CSS</span>
+      <p>CSS</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconTailwind.svg" width="48" height="48" alt="Tailwind CSS" />
-      <span>Tailwind CSS</span>
+      <p>Tailwind CSS</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconHTML.svg" width="48" height="48" alt="HTML" />
-      <span>HTML</span>
+      <p>HTML</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconMaterialUI.svg" width="48" height="48" alt="Material UI" />
-      <span>Material UI</span>
+      <p>Material UI</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconStyledComponents.svg" width="48" height="48" alt="Styled Components" />
-      <span>Styled Components</span>
+      <p>Styled Components</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="./icons/iconJavascript.svg" width="48" height="48" alt="Javascript" />
-      <span>Javascript</span>
+      <p>Javascript</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconTypescript.svg" width="48" height="48" alt="Typescript" />
-      <span>Typescript</span>
+      <p>Typescript</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconReact.svg" width="48" height="48" alt="React" />
-      <span>React</span>
+      <p>React</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconReactHookForm.svg" width="48" height="48" alt="React hook form" />
-      <span>React hook form</span>
+      <p>React hook form</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconTanstack.png" width="48" height="48" alt="Tantack" />
-      <span>Tanstack</span>
+      <p>Tanstack</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="./icons/iconExpress.svg" width="48" height="48" alt="Express" />
-      <span>Express</span>
+      <p>Express</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconNodeJs.svg" width="48" height="48" alt="Node.js" />
-      <span>Node.js</span>
+      <p>Node.js</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconNextjs.svg" width="48" height="48" alt="Next.js" />
-      <span>Next.js</span>
+      <p>Next.js</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconPostgresql.svg" width="48" height="48" alt="Postgresql" />
-      <span>PostgreSQL</span>
+      <p>PostgreSQL</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconDocker.svg" width="48" height="48" alt="Docker" />
-      <span>Docker</span>
+      <p>Docker</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="./icons/iconGit.svg" width="48" height="48" alt="Git" />
-      <span>Git</span>
+      <p>Git</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconLinux.svg" width="48" height="48" alt="Linux" />
-      <span>Linux</span>
+      <p>Linux</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconVite.svg" width="48" height="48" alt="Vite" />
-      <span>Vite</span>
+      <p>Vite</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconPwa.svg" width="48" height="48" alt="PWA" />
-      <span>PWA</span>
+    <p>PWA</p>
     </td>
     <td align="center" width="96">
       <img src="./icons/iconNpm.svg" width="48" height="48" alt="npm" />
-      <span>npm</span>
+      <p>npm</p>
     </td>
   </tr>
 </table>
@@ -119,19 +119,19 @@
       <a href="https://snake-react-ten.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imageSnakeReact.png" alt="Snake react"/>
       </a>
-      <span>Snake React</span>
+      <p>Snake React</p>
     </td>
     <td align="center" width="275">
       <a href="https://fede-avelin-dev.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imagePortfolio.png" alt="Snake react"/>
       </a>
-      <span>Portfolio</span>
+      <p>Portfolio</p>
     </td>
     <td align="center" width="275">
       <a href="https://liteflix-challenge-five.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imageLiteflix.png" alt="Liteflix"/>
       </a>
-      <span>Liteflix</span>
+      <p>Liteflix</p>
     </td>
   </tr>
   <tr>
@@ -139,19 +139,19 @@
       <a href="https://pf-web-service.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imageWebService.png" alt="Snake react"/>
       </a>
-      <span>Web service</span>
+      <p>Web service</p>
     </td>
     <td align="center" width="275">
       <a href="https://pi-videogames-kappa.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imageVideogames.png" alt="Snake react"/>
       </a>
-      <span>Videogames</span>
+      <p>Videogames</p>
     </td>
     <td align="center" width="275">
       <a href="https://gif-finder-mu.vercel.app/" rel="noopener noreferrer" target="_blank">
         <img src="./imgs/imageGifFinder.png" alt="Liteflix"/>
       </a>
-      <span>Gif Finder</span>
+      <p>Gif Finder</p>
     </td>
   </tr>
 </table>
