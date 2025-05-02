@@ -101,7 +101,7 @@
     <p>PWA</p>
     </td>
     <td align="center" width="96">
-      <a href="#" style="display:flex;align-items:center;justify-content:center;height:48px;width:48px" >
+      <a href="#">
         <img src="./icons/iconNpm.svg" width="48" alt="npm" />
       </a>
       <p>npm</p>
@@ -159,6 +159,12 @@
 </table>
 
 <br />
+
+---
+
+### ✨ Work Activity
+
+<img src='./imgs/imageGitlabActivity.png' alt='gitlab activity'/>
 
 ---
 
