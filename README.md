@@ -101,7 +101,7 @@
     <p>PWA</p>
     </td>
     <td align="center" width="96">
-      <img src="./icons/iconNpm.svg" width="48" height="48" alt="npm" />
+      <img src="./icons/iconNpm.svg" width="48" alt="npm" />
       <p>npm</p>
     </td>
   </tr>
